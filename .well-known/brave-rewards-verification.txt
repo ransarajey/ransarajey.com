@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ransarajey.com
+Token: 6fe0cb6a0f1aabd873010da6018356ac49566f6ea77850a2c8567c6c136f2a4e

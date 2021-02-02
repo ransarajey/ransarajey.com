@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.ransarajey.com/sitemap.xml
