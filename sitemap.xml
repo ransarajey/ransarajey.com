@@ -7,39 +7,40 @@
 
 <url>
   <loc>https://ransarajey.com/</loc>
-  <lastmod>2020-08-04T07:37:14+00:00</lastmod>
+  <lastmod>2021-03-20T22:50:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://ransarajey.com/index.html</loc>
-  <lastmod>2020-08-04T07:37:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://ransarajey.com/#about-section</loc>
-  <lastmod>2020-08-04T07:37:14+00:00</lastmod>
+  <lastmod>2021-03-20T22:50:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ransarajey.com/#resume-section</loc>
-  <lastmod>2020-08-04T07:37:14+00:00</lastmod>
+  <loc>https://ransarajey.com/#resume-section-h</loc>
+  <lastmod>2021-03-20T22:50:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ransarajey.com/#services-section-h</loc>
-  <lastmod>2020-08-04T07:37:14+00:00</lastmod>
+  <lastmod>2021-03-20T22:50:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ransarajey.com/#projects-section-h</loc>
-  <lastmod>2020-08-04T07:37:14+00:00</lastmod>
+  <lastmod>2021-03-20T22:50:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ransarajey.com/#contact-section-h</loc>
-  <lastmod>2020-08-04T07:37:14+00:00</lastmod>
+  <lastmod>2021-03-20T22:50:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://ransarajey.com/ransarajeyResume.pdf</loc>
+  <lastmod>2021-03-20T22:50:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
 
 
 </urlset>
