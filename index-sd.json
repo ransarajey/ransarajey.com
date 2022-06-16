@@ -1,0 +1,474 @@
+<script type="application/ld+json">
+        {
+            "@context": {
+                "@vocab": "http://schema.org/"
+            },
+            "@graph": [
+                {"@type": ["Person","MusicGroup"],
+                "name": "Ransara Wijayasundara",
+                "mainEntityOfPage": "https://ransarajey.com/",
+                "givenName": "Ransara",
+                "familyName": "Wijayasundara",
+                "description": "Software Engineer",
+                "gender": "Male",
+                "birthDate": "1998-10-01",
+                "birthPlace": "Colombo",
+                "nationality": "Sri Lanka",
+                "url": "https://ransarajey.com/",
+                "sameAs": [
+                    "https://www.facebook.com/ransarajey",
+                    "https://twitter.com/ransarajey",
+                    "https://www.instagram.com/ransarajey",
+                    "https://www.linkedin.com/in/ransarajey",
+                    "https://github.com/ransarajey",
+                    "https://ransarajey.com",
+                    "https://www.crunchbase.com/person/ransara-wijayasundara",
+                    "https://g.co/kg/g/11mx322bvm",
+                    "https://orcid.org/0000-0001-7005-4440",
+                    "https://peoplepill.com/people/ransara-wijayasundara",
+                    "https://www.imdb.com/name/nm12225322/",
+                    "https://www.behance.net/ransarajey",
+                    "https://www.deezer.com/artist/125640922",
+                    "https://open.spotify.com/artist/1eyGRYHeDpDdxaGWppfHjQ",
+                    "https://music.apple.com/artist/1557004413",
+                    "https://tidal.com/artist/23819686",
+                    "https://musicbrainz.org/artist/ace09910-baa3-4ff2-937a-fd46f33c993d",
+                    "https://napster.com/artist/ransara-wijayasundara",
+                    "https://genius.com/artists/Ransara-wijayasundara"
+                ],
+                "jobTitle": "Software Engineer",
+                "alumniOf": [{
+                                "@type": "OrganizationRole",
+                                "alumniOf": {
+                                    "@type": "CollegeOrUniversity",
+                                    "name": "University of Plymouth",
+                                    "sameAs": "https://en.wikipedia.org/wiki/University_of_Plymouth"
+                                },
+                                "startDate": "2018",
+                                "endDate":"2021"
+                             },
+                             {
+                                "@type": "OrganizationRole",
+                                "alumniOf": {
+                                    "@type": "CollegeOrUniversity",
+                                    "name": "D. S. Senanayake College",
+                                    "sameAs": "https://en.wikipedia.org/wiki/D._S._Senanayake_College"
+                                },
+                                "startDate": "2009",
+                                "endDate":"2017"
+                             }
+      
+                            ],
+                "contactPoint" : [
+                    {   "@type" : "ContactPoint",
+                        "telephone" : "+94763016956",
+                        "contactType" : "Mobile"
+                    }
+                ],
+                "email": "mailto:iam@ransarajey.com",
+                "parent": [{
+                    "@type": "Person",
+                    "name": "Piyasiri Saman Wijayasundara",
+                    "gender": "Male",
+                    "birthDate": "1966-03-08",
+                    "birthPlace": "Colombo",
+                    "nationality": "Sri Lanka",
+                    "description": "Sri Lankan Registered Medical Officer",
+                    "jobTitle": "Sri Lankan Registered Medical Officer",
+                    "alumniOf": ["University of Colombo","Royal College, Colombo"],
+                    "spouse": [{
+                        "@type": "Person",
+                        "name": "Nilanthi Kaluarachchi",
+                        "gender": "Female",
+                        "birthDate": "1973-08-04",
+                        "sameAs": [
+                                    "https://www.facebook.com/nilanthikaluarachchiofficial"
+                                  ]
+                    }],
+                    "children": [{
+                                    "@type": "Person",
+                                    "name": "Ransara Wijayasundara",
+                                    "gender": "Male",
+                                    "birthDate": "1998-10-01",
+                                    "url": "https://ransarajey.com",
+                                    "mainEntityOfPage":"https://ransarajey.com",
+                                    "sameAs": [
+                                        "https://www.facebook.com/ransarajey",
+                                        "https://twitter.com/ransarajey",
+                                        "https://www.instagram.com/ransarajey",
+                                        "https://www.linkedin.com/in/ransarajey",
+                                        "https://ransarajey.com"
+                                    ]
+                              },
+                              {
+                                    "@type": "Person",
+                                    "name": "Punara Wijayasundara",
+                                    "gender": "Female",
+                                    "birthDate": "2003-09-26"
+                              }
+            
+                                ]
+                    
+                },
+                {
+                    "@type": "Person",
+                    "name": "Nilanthi Kaluarachchi",
+                    "gender": "Female",
+                    "birthDate": "1973-08-04",
+                    "birthPlace": "Nawalapitiya",
+                    "nationality": "Sri Lanka",
+                    "description": "Sri Lankan Politician",
+                    "jobTitle": "Sri Lankan Politician",
+                    "sameAs": [ 
+                                "https://www.facebook.com/nilanthikaluarachchiofficial"
+                        ],
+                    "spouse": [{
+                        "@type": "Person",
+                        "name": "Piyasiri Saman Wijayasundara",
+                        "gender": "Male",
+                        "birthDate": "1966-03-08"
+                    }],
+                    "children": [{
+                                    "@type": "Person",
+                                    "name": "Ransara Wijayasundara",
+                                    "gender": "Male",
+                                    "birthDate": "1998-10-01",
+                                    "url": "https://ransarajey.com",
+                                    "mainEntityOfPage":"https://ransarajey.com",
+                                    "sameAs": [
+                                        "https://www.facebook.com/ransarajey",
+                                        "https://twitter.com/ransarajey",
+                                        "https://www.instagram.com/ransarajey",
+                                        "https://www.linkedin.com/in/ransarajey",
+                                        "https://ransarajey.com"
+                                    ]
+                              },
+                              {
+                                    "@type": "Person",
+                                    "name": "Punara Wijayasundara",
+                                    "gender": "Female",
+                                    "birthDate": "2003-09-26"
+                              }
+            
+                                ]
+                    
+                        }
+                    
+                    ],
+                    "sibling": [
+                        {
+                            "@type": "Person",
+                            "name": "Punara Wijayasundara",
+                            "gender": "Female",
+                            "birthDate": "2003-09-26"
+                      }
+                    ],
+                    
+                    "track": [
+
+                        {
+                            "@type": "MusicRecording",
+                            "@id":"https://musicbrainz.org/recording/49935b8b-961f-4dca-acb0-1f19e85b947c",
+                            "name": "ain't nooo drama",
+                            "inAlbum":"ain't nooo drama",
+                            "duration": "PT1M48S",
+                            "isrcCode": "GBSMU9626973",
+                            "sameAs":[
+                                "https://open.spotify.com/track/3LxzKA8PfN034dv1XZPRdC",
+                                "https://music.apple.com/lk/album/aint-nooo-drama/1557004412?i=1557004414&app=music",
+                                "https://youtube.com/watch?v=o_tROiRggPo",
+                                "https://listen.tidal.com/track/176123523",
+                                "https://music.youtube.com/watch?v=o_tROiRggPo",
+                                "https://www.deezer.com/track/1265884132",
+                                "https://napster.com/ransara-wijayasundara/aint-nooo-drama/aint-nooo-drama",
+                                "https://g.co/kgs/SQZ6zT",
+                                "https://www.wikidata.org/wiki/Q105822718"
+                            ],
+                            "byArtist": 
+                                {
+                                    "@type": "Person",
+                                    "name": "Ransara Wijayasundara",
+                                    "url": "https://ransarajey.com/",
+                                    "mainEntityOfPage":"https://ransarajey.com/",
+                                    "jobTitle": "Software Engineer",
+                                    "sameAs": [
+                                        "https://www.facebook.com/ransarajey",
+                                        "https://twitter.com/ransarajey",
+                                        "https://www.instagram.com/ransarajey",
+                                        "https://www.linkedin.com/in/ransarajey",
+                                        "https://ransarajey.com",
+                                        "https://www.crunchbase.com/person/ransara-wijayasundara",
+                                        "https://www.deezer.com/artist/125640922",
+                                        "https://open.spotify.com/artist/1eyGRYHeDpDdxaGWppfHjQ",
+                                        "https://music.apple.com/artist/1557004413",
+                                        "https://tidal.com/artist/23819686",
+                                        "https://musicbrainz.org/artist/ace09910-baa3-4ff2-937a-fd46f33c993d"
+                                    ]
+                                }
+                            
+                        },
+
+                        {
+                            "@type": "MusicRecording",
+                            "@id":"https://musicbrainz.org/release/e95f2990-e01c-47ea-9c97-19158d375308",
+                            "url":"https://ransarajey.com/kirithe",
+                            "mainEntityOfPage":"https://ransarajey.com/kirithe",
+                            "name": "kirithe",
+                            "inAlbum":"kirithe",
+                            "isrcCode": "GBSMU9802879",
+                            "duration": "PT3M3S",
+                            "sameAs":[
+                                "https://open.spotify.com/track/1XD7iKWyUtwcfWDrgOVVvX",
+                                "https://music.apple.com/us/album/kirithe-single/1559558399",
+                                "https://youtube.com/watch?v=MkiapE5J7I8",
+                                "https://listen.tidal.com/track/178272287",
+                                "https://music.amazon.com/albums/B08ZT4H1PN?trackAsin=B08ZT67ZLN",
+                                "https://music.youtube.com/watch?v=MkiapE5J7I8",
+                                "https://www.deezer.com/track/1284605402",
+                                "https://napster.com/ransara-wijayasundara/kirithe/kirithe",
+                                "https://amazon.com/dp/B08ZT67ZLN"
+                            ],
+                            "byArtist": 
+                                {
+                                    "@type": "Person",
+                                    "name": "Ransara Wijayasundara",
+                                    "url": "https://ransarajey.com/",
+                                    "mainEntityOfPage":"https://ransarajey.com/",
+                                    "jobTitle": "Software Engineer",
+                                    "sameAs": [
+                                        "https://www.facebook.com/ransarajey",
+                                        "https://twitter.com/ransarajey",
+                                        "https://www.instagram.com/ransarajey",
+                                        "https://www.linkedin.com/in/ransarajey",
+                                        "https://ransarajey.com",
+                                        "https://www.crunchbase.com/person/ransara-wijayasundara",
+                                        "https://www.deezer.com/artist/125640922",
+                                        "https://open.spotify.com/artist/1eyGRYHeDpDdxaGWppfHjQ",
+                                        "https://music.apple.com/artist/1557004413",
+                                        "https://tidal.com/artist/23819686",
+                                        "https://musicbrainz.org/artist/ace09910-baa3-4ff2-937a-fd46f33c993d"
+                                    ]
+                                }
+                            
+                        },
+
+                        
+                        {
+                            "@type": "MusicRecording",
+                            "@id":"https://musicbrainz.org/recording/1706c2fd-e827-4e43-9970-b22e1705d489",
+                            "name": "Far From FOH",
+                            "inAlbum":"Far From FOH",
+                            "isrcCode": "GBSMU9662481",
+                            "duration": "PT2M23S",
+                            "sameAs":[
+                                "https://open.spotify.com/track/35pK5nNJdbEWllUlswTChy",
+                                "https://music.apple.com/lk/album/far-from-foh/1557046664?i=1557046665&app=music",
+                                "https://youtube.com/watch?v=tu7T5MWgEEo",
+                                "https://listen.tidal.com/track/176658332",
+                                "https://music.youtube.com/watch?v=tu7T5MWgEEo",
+                                "https://www.deezer.com/track/1271300552",
+                                "https://music.amazon.com/albums/B08YH1PG9Y?trackAsin=B08YH24CMH",
+                                "https://music.apple.com/lk/album/far-from-foh/1557046664?i=1557046665&app=itunes",
+                                "https://amazon.com/dp/B08YH24CMH",
+                                "https://www.wikidata.org/wiki/Q106086556",
+                                "https://g.co/kgs/mTstzw"
+                            ],
+                            "byArtist": 
+                                {
+                                    "@type": "Person",
+                                    "name": "Ransara Wijayasundara",
+                                    "url": "https://ransarajey.com/",
+                                    "mainEntityOfPage":"https://ransarajey.com/",
+                                    "jobTitle": "Software Engineer",
+                                    "sameAs": [
+                                        "https://www.facebook.com/ransarajey",
+                                        "https://twitter.com/ransarajey",
+                                        "https://www.instagram.com/ransarajey",
+                                        "https://www.linkedin.com/in/ransarajey",
+                                        "https://ransarajey.com",
+                                        "https://www.crunchbase.com/person/ransara-wijayasundara",
+                                        "https://www.deezer.com/artist/125640922",
+                                        "https://open.spotify.com/artist/1eyGRYHeDpDdxaGWppfHjQ",
+                                        "https://music.apple.com/artist/1557004413",
+                                        "https://tidal.com/artist/23819686",
+                                        "https://musicbrainz.org/artist/ace09910-baa3-4ff2-937a-fd46f33c993d"
+                                    ]
+                                }
+                            
+                        }
+                       
+
+
+                    ],
+
+                    "knows": [
+                        {
+                          "@type": "Person",
+                          "@id": "https://data.ransarajey.com/madusanka-premaratne",
+                          "name": "Madusanka Premaratne",
+                          "url": "https://madusankapremaratne.com",
+                          "mainEntityOfPage": "https://madusankapremaratne.com",
+                          "jobTitle": "Entrepreneur",
+                          "sameAs": [
+                            "https://www.facebook.com/madusankapremaratne",
+                            "https://www.linkedin.com/in/madusanka",
+                            "http://twitter.com/maduspremaratne",
+                            "http://instagram.com/madusankapremaratne",
+                            "https://data.ransarajey.com/madusanka-premaratne"
+                     
+                           
+                        ]
+                        },
+
+                        {
+                            "@type": "Person",
+                            "name": "Kasun Rukmaldeniya",
+                            "mainEntityOfPage":"https://rukmaldeniya.com/",
+                            "url": "https://rukmaldeniya.com/",
+                            "jobTitle": "Software Engineer",
+                            "sameAs": [
+                                "https://www.facebook.com/rukmaldeniya/",
+                                "https://www.linkedin.com/in/rukmaldeniya/",
+                                "https://www.youtube.com/c/KasunRukmaldeniya",
+                                "https://www.instagram.com/ghost_ruu/",
+                                "https://twitter.com/rukmaldeniya/",
+                                 "https://scholar.google.com/citations?user=QYkWrMkAAAAJ",
+                                 "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3802201"
+                    
+                            ]
+                        },
+                        {
+                            "@type" :"Person",
+                            "name": "Sandun Wijemanne Nissanka",
+                            "mainEntityOfPage":"https://sandunz.com/",
+                            "url": "https://sandunz.com/",
+                            "jobTitle": "Music & Tech Entrepreneur",
+                            "sameAs": [
+                                "https://www.facebook.com/sandunwnissanka",
+                                "https://www.instagram.com/realsandunz/",
+                                "https://twitter.com/realsandunz",
+                                "https://www.linkedin.com/in/sandunz/"
+                            ]
+                        },
+                        {
+                            "@type" :"Person",
+                            "name": "Dinuka Wijesinghe",
+                            "url": "https://dinukawijesinghe.com",
+                            "mainEntityOfPage":"https://dinukawijesinghe.com",
+                            "jobTitle": "Sri Lankan YouTuber",
+                            "sameAs": [
+                                "https://www.facebook.com/dinukaofficial",
+                                "https://www.youtube.com/dinukaofficial",
+                                "https://www.instagram.com/dinukaofficial",
+                                "https://www.pinterest.com/dinukaofficial"
+                            ]
+                        }
+
+                     ]
+        },
+                
+                
+                {
+            
+                "@type": "WebSite",
+                "name": "Ransara Wijayasundara",
+                "url": "https://ransarajey.com/#website",
+                "potentialAction": [{
+                    "@type": "SearchAction",
+                    "target": "https:\/\/www.ransarajey.com\/?s={search_term_string}",
+                    "query-input": "required name=search_term_string"
+                    }],
+                        
+                "dateCreated": "2016-08-29",
+                "datePublished": "2016-08-29",
+                "dateModified": "2021-04-03"
+                },
+
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Portrait of Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/ransara.webp",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of NSBM Faculty Management System (Admin) developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-1.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of NSBM Faculty Management System (Student) developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-2.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of Park.lk developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-3.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of ShakthiKnit Yarn Management System developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-4.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of TrafficCop developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-5.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of Sri Rathnaramaya developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-6.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of #Safehands Challenge developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-7.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                },
+                {
+                    "@context": "https://schema.org/",
+                    "@type": "ImageObject",
+                    "name": "Mockup of EEEFA Journal developed by Ransara Wijayasundara",
+                    "contentUrl": "https://www.ransarajey.com/portfolio-8.png",
+                    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "acquireLicensePage": "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"
+                    
+                }
+
+
+        ]
+        }
+      </script>

@@ -1,0 +1,185 @@
+/* global */
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+
+body{
+    padding: 30px;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: rgb(255,255,255, 0.5);
+
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+span{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17.6px;
+    display: inline-block;
+    padding: 0px 30px;
+    margin:  7px;
+}
+
+i{
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+hr.rounded {
+    height: 5px; 
+    border: 0px solid #ffffff1c; 
+    border-top-width: 3px;
+    max-width: 900px;
+}
+
+h1,h2,.white{
+    color: #FFFFFF;
+}
+
+a{
+    color: rgb(255,255,255, 0.5);
+    text-decoration: none;
+}
+
+a:hover{
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/*button*/
+.button {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    margin: 30px;
+    transition-duration: 0.2s;
+    cursor: pointer;
+    border-radius: 400px;
+    
+  }
+
+
+  .downloadcv {
+    background-color: white; 
+    color: black; 
+  }
+  
+  .downloadcv:hover {
+    background-color: #020f1b;
+    color: white;
+    border: none;
+  }
+
+/*intro*/
+.intro{
+    text-align: center;
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+
+.intro h1{
+    margin: 10px;
+    padding: 0;
+}
+
+
+.intro p{
+    font-size: 1.1rem;
+    margin: 10px;
+    padding: 0;
+
+    text-align: justify;  
+    -moz-text-align-last: center; /* Code for Firefox */
+    text-align-last: center;
+}
+
+.intro a{
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+.intro img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+/*Contact*/
+.contact{
+    max-width: 900px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.contact h2{
+    font-size: 1.7rem;
+    margin: 0px;
+    padding: 0;
+    margin-top: 30px;
+    text-decoration: underline;
+}
+
+.contact h3{
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-weight: 400;
+   
+}
+
+.contact h4{
+    margin: 0;
+    padding: 0;
+    font-weight: unset;
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+}
+
+.contact p{
+    font-size: 1.1rem;
+    padding: 0px;
+    margin:0;
+    margin-top: 05px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+@media screen and (min-width: 800px) {
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+    align-items: center;
+    justify-items: center;
+
+  }
+  .grid-item {
+    /* border: 1px solid rgba(255, 255, 255, 0.1); */
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+  }
