@@ -185,21 +185,21 @@ footer {
 
 .skeleton-loader:empty {
     background: linear-gradient(
-        to right,
+        to bottom,
         rgba(255, 255, 255, 0),
         rgba(77, 77, 77, 0.5) 50%,
         rgba(255, 255, 255, 0) 80%
       ),
       rgb(41, 41, 41);
-    background-repeat: repeat-y;
+    background-repeat: repeat-x;
     background-size: 50px 50px;
     background-position: 0 0;
-    animation: shine 2s infinite;
+    animation: shine 1s infinite;
   }
   
   @keyframes shine {
     to {
-      background-position: 100% 0;
+      background-position: 0 100%;
     }
   }
 
